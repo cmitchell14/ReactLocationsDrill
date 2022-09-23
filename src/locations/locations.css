@@ -1,0 +1,126 @@
+.locations {
+    width: 25%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    float: left;
+    border-style:solid;
+}
+
+.addBtn {
+    width: 50%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    align-self: center;
+    border-color: black;
+    border-radius: 0;
+    border-width: 4px;
+}
+
+/* Creation Form Styling */
+.createForm {
+    margin-top: 1rem;
+    margin-right: 2rem;
+    width: 70%;
+    float: right;
+}
+
+.checkLabel {
+    float:left;
+    margin-left: 1rem;
+}
+
+.createBorder {
+    border:solid;
+}
+
+.locInfo {
+    position:absolute; left: 1rem; top:-1.2rem;
+    z-index:50000;
+    background-color: white;
+    font-size: large;
+}
+
+.fieldContainer {
+    margin-top: 1rem;
+}
+
+.createFields {
+    margin-bottom:1.5rem;
+    margin-top: .2rem;
+    margin-left: 2rem;
+    float: left;
+    clear: both;
+}
+
+.createBtns {
+    float:left;
+    clear: both;
+    margin-left:2rem;
+    margin-bottom: 2.5rem;
+
+}
+
+.submitBtn {
+    border-color: black;
+    border-radius: 0;
+    border-width: 4px;
+    width: 7rem;
+}
+
+.cancelBtn {
+    margin-left:2rem;
+    border-color: black;
+    border-radius: 0;
+    border-width: 4px;
+    width: 7rem;
+}
+
+.createBox {
+    position:absolute; left:10rem;
+    border:solid;
+}
+
+/* Single Location Styling */
+.locBorder {
+    border-top: solid;
+    border-color: black;
+    width: 100%;
+}
+
+.online {
+    border: none;
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+}
+
+.online:hover {
+    background-color: none;
+    width: 100%;
+}
+
+.offline {
+    color: lightgray;
+    border: none;
+    width: 100%;
+    margin:0;
+}
+.offline:hover {
+    background-color: none;
+    color:lightgray;
+    border-color: white;
+    width: 100%;
+}
+
+.locationButtons {
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+    border-top: solid;
+}
+
+.soloLoc {
+    border-top: solid;
+    border-color: black;
+}

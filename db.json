@@ -1,0 +1,39 @@
+{
+    "Locations": [
+        {
+            "LocationID": 0,
+            "LocationName": "Location 1",
+            "Latitude": 34.54665443,
+            "Longitude": 38.857463,
+            "Online": true
+        },
+        {
+            "LocationID": 1,
+            "LocationName": "Location 2",
+            "Latitude": 34.54665443,
+            "Longitude": 38.857463,
+            "Online": true
+        },
+        {
+            "LocationID": 2,
+            "LocationName": "Location 3",
+            "Latitude": 54.1231231,
+            "Longitude": 38.45432,
+            "Online": true
+        },
+        {
+            "LocationID": 3,
+            "LocationName": "Location 4",
+            "Latitude": 78.234234,
+            "Longitude": 44.2432342,
+            "Online": false
+        },
+        {
+            "LocationID": 4,
+            "LocationName": "Location 5",
+            "Latitude": 56.67777,
+            "Longitude": 23.2323,
+            "Online": true
+        }
+    ]
+}
